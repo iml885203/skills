@@ -27,21 +27,13 @@ Learn more about the CLI usage at [skills](https://github.com/vercel-labs/skills
 
 ## Skills
 
-### Custom Skills
+### Hand-maintained Skills
 
-> Hand-maintained by Logan
+> Maintained by Logan
 
 | Skill | Description |
 |-------|-------------|
 | [confluence](skills/confluence) | Confluence Cloud REST API — search, read, create, update, delete pages |
-
-### Hand-maintained Skills (from antfu)
-
-> Opinionated
-
-| Skill | Description |
-|-------|-------------|
-| [antfu](skills/antfu) | Anthony Fu's preferences and best practices for app/library projects |
 
 ### Skills Generated from Official Documentation
 
